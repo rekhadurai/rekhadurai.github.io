@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.dinesh.myapplication",
+    "package_name": "io.github.rekhadurai.tryinstant.feature",
     "sha256_cert_fingerprints":
     ["E7:E7:CB:F8:5D:8B:BC:28:2E:DD:C3:A4:02:F7:82:CE:28:5A:22:D3:F1:90:72:ED:8E:70:DC:E0:1B:E5:F3:13"]
   }
